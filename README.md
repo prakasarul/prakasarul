@@ -1,9 +1,9 @@
-# Arul prakasam
+# Arulprakasam
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakasarul&label=Profile%20views&color=0e75b6&style=flat" alt="prakasarul" /> </p>
 
 ## Data Science and DevOps Professional
 
-Welcome to my GitHub profile! I'm Arul prakasam, a passionate Data Scientist and DevOps engineer with extensive experience in both fields. I specialize in leveraging data-driven insights to improve business processes and implementing robust DevOps practices to enhance software development workflows.
+Welcome to my GitHub profile! I'm Arulprakasam, a passionate Data Scientist and DevOps engineer with extensive experience in both fields. I specialize in leveraging data-driven insights to improve business processes and implementing robust DevOps practices to enhance software development workflows.
 
 ### About Me
 
